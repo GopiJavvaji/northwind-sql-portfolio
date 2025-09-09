@@ -1,0 +1,22 @@
+# <Project Title>
+
+**Problem**: <one paragraph business question>  
+**Data**: Northwind (`orders`, `order_details`, `customers`, …)  
+**Approach**: <key steps: joins → CTEs → windows → indexes>
+
+## SQL
+File: `projects/<filename>.sql`
+
+## Result
+- CSV: `results/<name>.csv`
+- (Optional) Screenshot: `results/screenshots/<name>.png`
+
+## Performance (optional)
+- Before: see `optimization/explain_before.txt`
+- Indexes: see `optimization/02_indexes_created.sql`
+- After: see `optimization/explain_after.txt`
+
+-- Title: <short description>
+-- Goal: <what this query demonstrates>
+-- Tables: <table1, table2, ...>
+-- Notes: <edge cases, assumptions>
