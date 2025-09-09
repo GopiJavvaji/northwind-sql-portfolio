@@ -5,11 +5,11 @@ Business-style SQL analyses on the Northwind dataset (PostgreSQL):
 - Customer retention, sales trends, sales rep productivity, Pareto (80/20)
 - Query optimization with indexes and EXPLAIN ANALYZE
 
-## Structure
-- /queries – practice queries (joins, CTEs, windows)
-- /projects – business cases (retention, trends, productivity, Pareto)
-- /optimization – indexes + EXPLAIN before/after
-- /results – CSVs and screenshots from pgAdmin
+
+## ✅ Status
+Initial scaffolding is ready. Projects incoming.
+
+## 📁 Structure
 
 ## Dataset
 Northwind sample database for PostgreSQL.
