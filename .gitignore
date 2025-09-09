@@ -1,5 +1,17 @@
+# Data files
 *.csv
 *.xlsx
+*.parquet
+
+# Images
 *.png
 *.jpg
+*.jpeg
+
+# System files
 .DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
