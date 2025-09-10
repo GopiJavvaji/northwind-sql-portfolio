@@ -17,7 +17,8 @@ Business-style SQL analyses on the Northwind dataset (PostgreSQL):
 3. Save outputs (CSV/screenshots) into `/results`.
 
 ## 🗺️ Roadmap
-- [ ] Joins & CTEs practice
+- [✅ ] Joins
+- [ ] CTEs practice
 - [ ] Window functions + rolling metrics
 - [ ] Customer retention (2024 vs 2025)
 - [ ] Monthly sales trends + YoY
